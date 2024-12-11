@@ -1,0 +1,12 @@
+    down
+    box "Sony Access Controller" fit
+    arrow down "USB cable"
+    box "gigaxac_usb" fit
+    arrow down "USB cable"
+    box "Microsoft Xbox" "Adaptive Controller" fit
+    arrow down "USB cable"
+FGC:box "Brook Gaming" "Wingman FGC 2" fit
+    arrow down "USB cable"
+PS5:box "Sony PlayStation 5" fit
+    arrow <- right 150% "Bluetooth" "or USB" from PS5.e
+    box "Sony DualSense" fit

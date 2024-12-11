@@ -1,0 +1,33 @@
+<svg width="512" xmlns='http://www.w3.org/2000/svg' style='font-size:initial;' class="pikchr" viewBox="0 0 446.285 490.5">
+<path d="M2.16,32.4L208.483,32.4L208.483,2.16L2.16,2.16Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="17.28" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Sony Access Controller</text>
+<polygon points="105.322,104.4 101.002,92.88 109.642,92.88" style="fill:rgb(0,0,0)"/>
+<path d="M105.322,32.4L105.322,98.64"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="68.4" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">USB cable</text>
+<path d="M48.0096,134.64L162.634,134.64L162.634,104.4L48.0096,104.4Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="119.52" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">gigaxac_usb</text>
+<polygon points="105.322,206.64 101.002,195.12 109.642,195.12" style="fill:rgb(0,0,0)"/>
+<path d="M105.322,134.64L105.322,200.88"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="170.64" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">USB cable</text>
+<path d="M16.7328,257.04L193.91,257.04L193.91,206.64L16.7328,206.64Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="221.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Microsoft Xbox</text>
+<text x="105.322" y="241.92" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Adaptive Controller</text>
+<polygon points="105.322,329.04 101.002,317.52 109.642,317.52" style="fill:rgb(0,0,0)"/>
+<path d="M105.322,257.04L105.322,323.28"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="293.04" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">USB cable</text>
+<path d="M31.1328,379.44L179.51,379.44L179.51,329.04L31.1328,329.04Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="344.16" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Brook Gaming</text>
+<text x="105.322" y="364.32" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Wingman FGC 2</text>
+<polygon points="105.322,451.44 101.002,439.92 109.642,439.92" style="fill:rgb(0,0,0)"/>
+<path d="M105.322,379.44L105.322,445.68"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="415.44" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">USB cable</text>
+<path d="M20.9376,481.68L189.706,481.68L189.706,451.44L20.9376,451.44Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="466.56" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Sony PlayStation 5</text>
+<polygon points="189.706,466.56 201.226,462.24 201.226,470.88" style="fill:rgb(0,0,0)"/>
+<path d="M195.466,466.56L297.706,466.56"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="243.706" y="454.86" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Bluetooth</text>
+<text x="243.706" y="478.26" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">or USB</text>
+<path d="M297.706,481.68L444.125,481.68L444.125,451.44L297.706,451.44Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="370.915" y="466.56" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Sony DualSense</text>
+</svg>
+

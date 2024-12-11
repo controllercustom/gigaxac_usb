@@ -1,0 +1,15 @@
+<svg width="256" xmlns='http://www.w3.org/2000/svg' style='font-size:initial;' class="pikchr" viewBox="0 0 210.643 239.04">
+<path d="M2.16,32.4L208.483,32.4L208.483,2.16L2.16,2.16Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="17.28" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Sony Access Controller</text>
+<polygon points="105.322,104.4 101.002,92.88 109.642,92.88" style="fill:rgb(0,0,0)"/>
+<path d="M105.322,32.4L105.322,98.64"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="68.4" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">USB cable</text>
+<path d="M48.0096,134.64L162.634,134.64L162.634,104.4L48.0096,104.4Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="119.52" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">gigaxac_usb</text>
+<polygon points="105.322,206.64 101.002,195.12 109.642,195.12" style="fill:rgb(0,0,0)"/>
+<path d="M105.322,134.64L105.322,200.88"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="170.64" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">USB cable</text>
+<path d="M29.5776,236.88L181.066,236.88L181.066,206.64L29.5776,206.64Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="221.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Nintendo Switch</text>
+</svg>
+

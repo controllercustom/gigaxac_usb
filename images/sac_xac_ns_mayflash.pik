@@ -1,0 +1,12 @@
+    down
+    box "Sony Access Controller" fit
+    arrow down "USB cable"
+    box "gigaxac_usb" fit
+    arrow down "USB cable"
+    box "Xbox Adaptive Controller" fit
+    arrow down "USB cable"
+MF: box "Mayflash Magic-NS" fit
+    arrow <- right 150% "Bluetooth" "" from MF.e
+    box "Joy-Cons" fit
+    arrow down "USB cable" from MF.s
+    box "Nintendo Switch" fit

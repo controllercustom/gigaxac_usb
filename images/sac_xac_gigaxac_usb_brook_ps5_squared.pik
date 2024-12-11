@@ -1,0 +1,18 @@
+SC1:box "Sony Access Controller" fit; move
+SC2:box "Sony Access Controller" fit
+    arrow down "USB cable" from SC1.s
+GX1:box "gigaxac_usb" fit
+    arrow down "USB cable" from SC2.s
+GX2:box "gigaxac_usb" fit
+    move left
+    move left
+    move down
+XAC:box "Microsoft Xbox" "Adaptive Controller" fit
+    arrow down "USB cable" rjust from GX1.s to XAC.w
+    arrow down "USB cable" ljust from GX2.s to XAC.e
+    arrow down "USB cable" "or Bluetooth" from XAC.s
+FGC:box "Brook Gaming" "Wingman FGC 2" fit
+    arrow down "USB cable" from FGC.s
+PS5:box "Sony PlayStation 5" fit
+    arrow <- right 150% "Bluetooth" "or USB" from PS5.e
+    box "Sony DualSense" fit

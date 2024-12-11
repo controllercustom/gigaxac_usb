@@ -1,0 +1,6 @@
+    down
+    box "Sony Access Controller" fit
+    arrow down "USB cable"
+    box "gigaxac_usb" fit
+    arrow down "USB cable"
+    box "Nintendo Switch" fit

@@ -1,0 +1,26 @@
+<svg width="512" xmlns='http://www.w3.org/2000/svg' style='font-size:initial;' class="pikchr" viewBox="0 0 476.352 341.28">
+<path d="M2.16,32.4L208.483,32.4L208.483,2.16L2.16,2.16Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="17.28" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Sony Access Controller</text>
+<polygon points="105.322,104.4 101.002,92.88 109.642,92.88" style="fill:rgb(0,0,0)"/>
+<path d="M105.322,32.4L105.322,98.64"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="68.4" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">USB  cable</text>
+<path d="M48.0096,134.64L162.634,134.64L162.634,104.4L48.0096,104.4Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="119.52" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">gigaxac_usb</text>
+<polygon points="105.322,206.64 101.002,195.12 109.642,195.12" style="fill:rgb(0,0,0)"/>
+<path d="M105.322,134.64L105.322,200.88"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="170.64" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">USB  cable</text>
+<path d="M7.5744,236.88L203.069,236.88L203.069,206.64L7.5744,206.64Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="221.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Mayflash Magic-S Pro</text>
+<polygon points="203.069,221.76 214.589,217.44 214.589,226.08" style="fill:rgb(0,0,0)"/>
+<path d="M208.829,221.76L311.069,221.76"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="257.069" y="210.06" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Bluetooth</text>
+<text x="257.069" y="233.46" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central"></text>
+<path d="M311.069,236.88L474.192,236.88L474.192,206.64L311.069,206.64Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="392.63" y="221.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Sony DualShock 4</text>
+<polygon points="105.322,308.88 101.002,297.36 109.642,297.36" style="fill:rgb(0,0,0)"/>
+<path d="M105.322,236.88L105.322,303.12"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="272.88" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">USB  cable</text>
+<path d="M20.9376,339.12L189.706,339.12L189.706,308.88L20.9376,308.88Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="105.322" y="324" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Sony PlayStation 4</text>
+</svg>
+

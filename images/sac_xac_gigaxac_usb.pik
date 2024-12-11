@@ -1,0 +1,10 @@
+    down
+    box "Sony Access Controller" fit
+    arrow down "USB cable"
+    box "gigaxac_usb" fit
+    arrow down "USB cable"
+XAC:box "Microsoft Xbox" "Adaptive Controller" fit
+    arrow down "USB cable" "or Bluetooth"
+XB: box "Microsoft Xbox One" "Console/Windows" fit
+    arrow <- right 150% "Bluetooth" "or USB" from XB.e
+    box "Xbox One" "Controller" fit

@@ -1,0 +1,13 @@
+#!/bin/sh
+pikchr --svg-only sac_xac_gigaxac_usb.pik | sed 's/^<svg/<svg width="512"/' >sac_xac_gigaxac_usb.svg
+pikchr --svg-only sac_xac_gigaxac_usb_squared.pik | sed 's/^<svg/<svg width="512"/' >sac_xac_gigaxac_usb_squared.svg
+pikchr --svg-only sac_gigaxac_usb_mayflash_ps4.pik | sed 's/^<svg/<svg width="512"/' >sac_gigaxac_usb_mayflash_ps4.svg
+pikchr --svg-only sac_xac_gigaxac_usb_mayflash_ps4.pik | sed 's/^<svg/<svg width="512"/' >sac_xac_gigaxac_usb_mayflash_ps4.svg
+pikchr --svg-only sac_xac_gigaxac_usb_mayflash_ps4_squared.pik | sed 's/^<svg/<svg width="512"/' >sac_xac_gigaxac_usb_mayflash_squared_ps4_squared.svg
+pikchr --svg-only sac_xac_gigaxac_usb_brook_ps5.pik  | sed 's/^<svg/<svg width="512"/' >sac_xac_gigaxac_usb_brook_ps5.svg
+pikchr --svg-only sac_xac_gigaxac_usb_brook_ps5_squared.pik  | sed 's/^<svg/<svg width="512"/' >sac_xac_gigaxac_usb_brook_ps5_squared.svg
+pikchr --svg-only sac_ns.pik | sed 's/^<svg/<svg width="256"/' >sac_ns.svg
+pikchr --svg-only sac_ns_mayflash.pik | sed 's/^<svg/<svg width="512"/' >sac_ns_mayflash.svg
+pikchr --svg-only sac_xac_ns_mayflash.pik | sed 's/^<svg/<svg width="512"/' >sac_xac_ns_mayflash.svg
+pikchr --svg-only sac_xac_ns_mayflash_squared.pik | sed 's/^<svg/<svg width="512"/' >sac_xac_ns_mayflash_squared.svg
+
