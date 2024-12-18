@@ -1,5 +1,7 @@
 # gigaxac_usb -- SAC to XAC DIY Adapter
 
+![Photo of SAC connected to XAC](./images/gigaxac.jpg)
+
 The Microsoft Xbox Adaptive Controller (XAC) for Xbox consoles and the Sony
 Access Controller (SAC) for PlayStation 5 consoles work well for their
 respective consoles. The SAC comes with a variety of different joystick toppers
